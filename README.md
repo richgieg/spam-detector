@@ -28,5 +28,5 @@ data and use data/02_testing_data.csv when prompted for testing data.
 Once the model is trained and tested, you can experiment with your own text
 messages and see whether they're detected as ham (not spam) or spam.
 
-Try it live at: https://spam-detector-xi.vercel.app/ (you will still need to
+Try it live at: https://spam-detector-red.vercel.app/ (you will still need to
 assemble the training data and testing data)
